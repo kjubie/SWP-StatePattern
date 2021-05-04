@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SWP_StatePattern.Flipper">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAgAAAAAAAgAIAAAAAAAAAAEAAAAAAEABAACAAA=</HashCode>
+      <FileName>Flipper.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="State" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SWP_StatePattern.NoCredit">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAgAAAAAAAAAAAAAAEAAAAAACAAAAAA=</HashCode>
+      <FileName>NoCredit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SWP_StatePattern.Ready">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAgAAAAAAAAAAAAAAEAAAAAACAAAAAA=</HashCode>
+      <FileName>Ready.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SWP_StatePattern.Level1">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAgAAAAAAAAAAAAAAEAAAAAAGAAAAAA=</HashCode>
+      <FileName>Level1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SWP_StatePattern.Level2">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAgAAAAAAAAAAAAAAEAAAAAAGAAAAAA=</HashCode>
+      <FileName>Level2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SWP_StatePattern.Restarting">
+    <Position X="11.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAGAAAAgAAAAAAAAAAAAAAEAAAAAACAAAAAA=</HashCode>
+      <FileName>Restarting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="SWP_StatePattern.IState">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAgAAAAAAAAAAAAAAEAAAAAACAAAAAA=</HashCode>
+      <FileName>State.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
